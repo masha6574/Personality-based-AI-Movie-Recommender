@@ -1,13 +1,3 @@
----
-title: Personality AI Recommender
-emoji: 🧠
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-app_file: app.py
-pinned: false
----
-
 # 🧠 Personality-based AI Recommender
 
 Tired of the same old recommendations creating a filter bubble? This project is an innovative recommender system that suggests movies, books, and travel destinations based on a user's intrinsic **personality traits**, moving beyond traditional metrics like viewing history.
